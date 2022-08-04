@@ -1,0 +1,267 @@
+[10-Sep-2018 12:14:33 asia/dhaka] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/wwwmilonelectron/public_html/application/controllers/purchase/returnPurchase.php on line 28
+[10-Sep-2018 12:15:46 asia/dhaka] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/wwwmilonelectron/public_html/application/controllers/purchase/returnPurchase.php on line 28
+[10-Sep-2018 12:16:26 asia/dhaka] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/wwwmilonelectron/public_html/application/controllers/purchase/returnPurchase.php on line 28
+[10-Sep-2018 12:19:09 asia/dhaka] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/wwwmilonelectron/public_html/application/controllers/purchase/returnPurchase.php on line 28
+[10-Sep-2018 12:19:13 asia/dhaka] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/wwwmilonelectron/public_html/application/controllers/purchase/returnPurchase.php on line 28
+[10-Sep-2018 12:21:40 asia/dhaka] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING) in /home/wwwmilonelectron/public_html/application/controllers/purchase/returnPurchase.php on line 28
+[10-Sep-2018 12:23:26 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwmilonelectron/public_html/application/views/components/exchange/all.php on line 57
+[10-Sep-2018 15:57:32 asia/dhaka] PHP Parse error:  syntax error, unexpected '=' in /home/wwwmilonelectron/public_html/application/views/components/exchange/edit.php on line 18
+[12-Sep-2018 12:45:15 asia/dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/wwwmilonelectron/public_html/application/controllers/exchange/exchange.php on line 129
+[12-Sep-2018 17:29:52 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 61
+[12-Sep-2018 17:31:41 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 61
+[12-Sep-2018 17:32:08 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 61
+[12-Sep-2018 17:32:10 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 61
+[12-Sep-2018 17:32:13 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 61
+[12-Sep-2018 17:33:16 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 61
+[12-Sep-2018 17:33:18 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 61
+[12-Sep-2018 17:35:13 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 61
+[12-Sep-2018 17:36:37 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 61
+[12-Sep-2018 17:37:16 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 68
+[12-Sep-2018 17:38:38 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 68
+[12-Sep-2018 17:38:40 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/wwwmilonelectron/public_html/application/views/components/complain/view.php on line 68
+[18-Sep-2018 12:48:01 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/edit.php on line 31
+[18-Sep-2018 12:49:38 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/edit.php on line 31
+[18-Sep-2018 13:11:49 asia/dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wwwmilonelectron/public_html/application/views/components/complain/edit.php on line 31
+[20-Sep-2018 12:27:41 asia/dhaka] PHP Fatal error:  Unsupported operand types in /home/wwwmilonelectron/public_html/application/controllers/due_list/due_list.php on line 119
+[23-Sep-2018 10:56:57 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 131072000 bytes) in /home/wwwmilonelectron/public_html/system/core/Exceptions.php on line 185
+[23-Sep-2018 10:57:25 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 131072000 bytes) in /home/wwwmilonelectron/public_html/system/core/Exceptions.php on line 185
+[23-Sep-2018 10:59:09 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 131072000 bytes) in /home/wwwmilonelectron/public_html/system/core/Exceptions.php on line 185
+[23-Sep-2018 11:01:57 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 130646016 bytes) in /home/wwwmilonelectron/public_html/system/core/Exceptions.php on line 185
+[23-Sep-2018 11:02:32 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 131072000 bytes) in /home/wwwmilonelectron/public_html/system/core/Exceptions.php on line 185
+[23-Sep-2018 11:04:00 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 131072000 bytes) in /home/wwwmilonelectron/public_html/system/core/Exceptions.php on line 185
+[23-Sep-2018 11:05:31 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 131072000 bytes) in /home/wwwmilonelectron/public_html/system/core/Exceptions.php on line 185
+[23-Sep-2018 11:06:29 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 130973696 bytes) in /home/wwwmilonelectron/public_html/application/views/components/income/rent.php on line 78
+[23-Sep-2018 11:07:54 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 130957312 bytes) in /home/wwwmilonelectron/public_html/system/core/Exceptions.php on line 185
+[23-Sep-2018 11:08:33 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 130973696 bytes) in /home/wwwmilonelectron/public_html/system/core/Exceptions.php on line 185
+[23-Sep-2018 11:24:41 asia/dhaka] PHP Fatal error:  Call to undefined method Action::readMulti() in /home/wwwmilonelectron/public_html/application/controllers/income/income.php on line 99
+[23-Sep-2018 16:49:47 asia/dhaka] PHP Fatal error:  Cannot use [] for reading in /home/wwwmilonelectron/public_html/application/views/components/due_list/client.php on line 61
+[02-Oct-2018 14:18:25 asia/dhaka] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/wwwmilonelectron/public_html/application/controllers/super/dashboard.php on line 220
+[02-Oct-2018 14:57:25 asia/dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/wwwmilonelectron/public_html/application/views/components/ledger/company-ledger.php on line 293
+[02-Oct-2018 14:58:03 asia/dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/wwwmilonelectron/public_html/application/views/components/ledger/company-ledger.php on line 293
+[03-Oct-2018 13:31:57 asia/dhaka] PHP Fatal error:  Call to undefined function print_() in /home/wwwmilonelectron/public_html/application/views/components/report/client_profit.php on line 125
+[03-Oct-2018 13:55:58 asia/dhaka] PHP Fatal error:  Unsupported operand types in /home/wwwmilonelectron/public_html/application/views/components/report/client_profit.php on line 138
+[03-Oct-2018 13:57:41 asia/dhaka] PHP Fatal error:  Unsupported operand types in /home/wwwmilonelectron/public_html/application/views/components/report/client_profit.php on line 150
+[04-Oct-2018 11:27:56 asia/dhaka] PHP Fatal error:  Call to a member function create_links() on null in /home/wwwmilonelectron/public_html/application/controllers/supplier/supplier.php on line 8
+[04-Dec-2018 16:51:26 asia/dhaka] PHP Fatal error:  Call to undefined function ck_menu() in /home/wwwalara/public_html/application/views/super/includes/aside.php on line 60
+[05-Dec-2018 09:39:48 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwalara/public_html/application/views/components/bank/bank-nav.php on line 3
+[05-Dec-2018 09:40:01 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwalara/public_html/application/views/components/bank/bank-nav.php on line 3
+[05-Dec-2018 09:41:44 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwalara/public_html/application/views/components/bank/bank-nav.php on line 3
+[05-Dec-2018 09:42:26 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwalara/public_html/application/views/components/bank/bank-nav.php on line 3
+[05-Dec-2018 10:25:22 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwalara/public_html/application/views/components/purchase/nav.php on line 29
+[13-Dec-2018 16:53:29 asia/dhaka] PHP Fatal error:  Call to undefined function strototime() in /home/wwwalara/public_html/application/controllers/super/dashboard.php on line 260
+[23-Dec-2018 11:20:43 asia/dhaka] PHP Parse error:  syntax error, unexpected '=' in /home/wwwalara/public_html/application/controllers/clientWise/clientWise.php on line 66
+[23-Apr-2019 11:20:47 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 196345856 bytes) in /home/wwwalara/app.al-ara.com/application/views/components/report/productProfit.php on line 143
+[23-Apr-2019 11:22:33 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 196608000 bytes) in /home/wwwalara/app.al-ara.com/application/views/components/report/productProfit.php on line 143
+[23-Apr-2019 11:23:59 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 118331182 bytes) in /home/wwwalara/app.al-ara.com/system/core/Loader.php on line 862
+[23-Apr-2019 11:31:18 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 118331182 bytes) in /home/wwwalara/app.al-ara.com/system/core/Loader.php on line 862
+[23-Apr-2019 11:32:49 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 118331170 bytes) in /home/wwwalara/app.al-ara.com/system/core/Loader.php on line 862
+[23-Apr-2019 11:46:33 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwalara/app.al-ara.com/application/views/components/report/productProfit.php on line 205
+[23-Apr-2019 11:56:49 asia/dhaka] PHP Parse error:  syntax error, unexpected 'panel' (T_STRING) in /home/wwwalara/app.al-ara.com/application/views/components/report/productProfit.php on line 199
+[24-Apr-2019 00:25:04 asia/dhaka] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://api2.onnorokomSMS.com/sendSMS.asmx?wsdl' : failed to load external entity "https://api2.onnorokomSMS.com/sendSMS.asmx?wsdl"
+ in /home/wwwalara/app.al-ara.com/application/helpers/sms_helper.php on line 31
+[24-Apr-2019 00:25:50 asia/dhaka] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://api2.onnorokomSMS.com/sendSMS.asmx?wsdl' : failed to load external entity "https://api2.onnorokomSMS.com/sendSMS.asmx?wsdl"
+ in /home/wwwalara/app.al-ara.com/application/helpers/sms_helper.php on line 31
+[24-Apr-2019 00:25:52 asia/dhaka] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://api2.onnorokomSMS.com/sendSMS.asmx?wsdl' : failed to load external entity "https://api2.onnorokomSMS.com/sendSMS.asmx?wsdl"
+ in /home/wwwalara/app.al-ara.com/application/helpers/sms_helper.php on line 31
+[31-May-2019 11:24:52 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/wwwjbmedicine/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/wwwjbmedicine/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/wwwjbmedicine/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/wwwjbmedicine/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/wwwjbmedicine/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/wwwjbmedicine/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/wwwjbmedicine/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/wwwjbmedicine/public_html/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/wwwjbmedicine/public_html/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/wwwjbmedicine/public_html/application/controllers/access/users.php(6): Admin_Controller->__construct( in /home/wwwjbmedicine/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[19-Jun-2019 12:46:48 asia/dhaka] PHP Fatal error:  Function name must be a string in /home/wwwjbmedicine/public_html/application/views/components/product/add.php on line 70
+[19-Jun-2019 12:47:19 asia/dhaka] PHP Fatal error:  Function name must be a string in /home/wwwjbmedicine/public_html/application/views/components/product/add.php on line 70
+[19-Jun-2019 12:47:24 asia/dhaka] PHP Fatal error:  Function name must be a string in /home/wwwjbmedicine/public_html/application/views/components/product/add.php on line 70
+[19-Jun-2019 12:48:18 asia/dhaka] PHP Fatal error:  Function name must be a string in /home/wwwjbmedicine/public_html/application/views/components/product/add.php on line 71
+[19-Jun-2019 12:48:36 asia/dhaka] PHP Fatal error:  Function name must be a string in /home/wwwjbmedicine/public_html/application/views/components/product/add.php on line 71
+[19-Jun-2019 12:49:11 asia/dhaka] PHP Fatal error:  Function name must be a string in /home/wwwjbmedicine/public_html/application/views/components/product/add.php on line 71
+[19-Jun-2019 13:04:28 asia/dhaka] PHP Fatal error:  Call to a member function initialize() on null in /home/wwwjbmedicine/public_html/application/controllers/client/client.php on line 129
+[26-Jun-2019 10:17:40 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwjbmedicine/public_html/application/views/components/orders/orders.php on line 266
+[26-Jun-2019 10:17:43 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwjbmedicine/public_html/application/views/components/orders/orders.php on line 266
+[26-Jun-2019 10:17:46 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwjbmedicine/public_html/application/views/components/orders/orders.php on line 266
+[26-Jun-2019 10:18:20 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwjbmedicine/public_html/application/views/components/orders/orders.php on line 266
+[26-Jun-2019 10:18:24 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwjbmedicine/public_html/application/views/components/orders/orders.php on line 266
+[26-Jun-2019 10:18:29 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwjbmedicine/public_html/application/views/components/orders/orders.php on line 266
+[26-Jun-2019 10:18:40 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwjbmedicine/public_html/application/views/components/orders/orders.php on line 266
+[26-Jun-2019 10:18:57 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwjbmedicine/public_html/application/views/components/orders/orders.php on line 266
+[03-Jul-2019 17:18:03 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 33468578 bytes) in /home/wwwjbmedicine/public_html/system/core/Output.php on line 164
+[03-Jul-2019 18:11:25 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 33468578 bytes) in /home/wwwjbmedicine/public_html/system/core/Output.php on line 164
+[03-Jul-2019 19:10:00 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 33468578 bytes) in /home/wwwjbmedicine/public_html/system/core/Output.php on line 164
+[04-Jul-2019 11:26:11 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 33468579 bytes) in /home/wwwjbmedicine/public_html/system/core/Output.php on line 164
+[04-Jul-2019 11:29:16 asia/dhaka] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 33468579 bytes) in /home/wwwjbmedicine/public_html/system/core/Output.php on line 164
+[27-Aug-2019 12:07:18 asia/dhaka] PHP Fatal error:  Cannot access empty property in /home/wwwjbmedicine/public_html/application/controllers/sale/sale.php on line 164
+[28-Dec-2019 14:24:51 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwjbmedicine/public_html/application/views/components/stock/stock.php on line 285
+[28-Dec-2019 15:06:24 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_with_limit() in /home/wwwjbmedicine/public_html/application/controllers/stock/stock.php on line 67
+[28-Dec-2019 15:06:27 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_with_limit() in /home/wwwjbmedicine/public_html/application/controllers/stock/stock.php on line 67
+[28-Dec-2019 15:06:55 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_with_limit() in /home/wwwjbmedicine/public_html/application/controllers/stock/stock.php on line 67
+[28-Dec-2019 15:10:33 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_with_limit() in /home/wwwjbmedicine/public_html/application/controllers/stock/stock.php on line 67
+[28-Dec-2019 15:13:06 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_with_limit() in /home/wwwjbmedicine/public_html/application/controllers/stock/stock.php on line 67
+[28-Dec-2019 15:13:50 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_with_limit() in /home/wwwjbmedicine/public_html/application/controllers/stock/stock.php on line 67
+[28-Dec-2019 15:14:12 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_with_limit() in /home/wwwjbmedicine/public_html/application/controllers/stock/stock.php on line 67
+[30-Sep-2020 16:46:02 asia/dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/itlabcommy/public_html/demo/pharmacy/application/views/components/due_list/client.php on line 99
+[30-Sep-2020 17:09:03 asia/dhaka] PHP Fatal error:  Call to undefined function get_result() in /home/itlabcommy/public_html/demo/pharmacy/application/controllers/unit/unit.php on line 16
+[30-Sep-2020 17:16:52 asia/dhaka] PHP Fatal error:  Call to undefined function get_row() in /home/itlabcommy/public_html/demo/pharmacy/application/controllers/unit/unit.php on line 50
+[26-Nov-2020 15:28:09 asia/dhaka] PHP Parse error:  syntax error, unexpected '$sap_where' (T_VARIABLE) in /home/wwwsurbitan/s-alampharmacy.xyz/application/views/components/sale/show-sale.php on line 183
+[10-Dec-2020 18:03:44 asia/dhaka] PHP Parse error:  syntax error, unexpected 'f_number' (T_STRING) in /home/wwwtalukderent/lifecarepharmacy.xyz/application/views/components/purchase/view-all.php on line 177
+[10-Dec-2020 18:25:55 asia/dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/wwwtalukderent/lifecarepharmacy.xyz/application/views/components/sale/view_sale.php on line 64
+[09-Jan-2021 10:01:26 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwtalukderent/lifecarepharmacy.xyz/application/views/components/report/net_profit.php on line 125
+[09-Jan-2021 12:03:46 asia/dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/wwwtalukderent/lifecarepharmacy.xyz/application/controllers/stock/short_list.php on line 29
+[19-Jan-2021 15:14:07 asia/dhaka] PHP Parse error:  syntax error, unexpected ',' in /home/wwwtalukderent/lifecarepharmacy.xyz/application/controllers/stock/expired_list.php on line 28
+[28-Jan-2021 15:24:59 asia/dhaka] PHP Fatal error:  Call to undefined function read() in /home/wwwtalukderent/lifecarepharmacy.xyz/application/controllers/sale/credit.php on line 30
+[09-Feb-2021 16:08:48 asia/dhaka] PHP Fatal error:  Unsupported operand types in /home/wwwtalukderent/lifecarepharmacy.xyz/application/controllers/super/dashboard.php on line 78
+[09-Feb-2021 16:08:58 asia/dhaka] PHP Fatal error:  Unsupported operand types in /home/wwwtalukderent/lifecarepharmacy.xyz/application/controllers/super/dashboard.php on line 78
+[06-Oct-2021 13:23:26 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwtalukderent/lifecarepharmacy.xyz/application/views/components/ledger/client-ledger.php on line 380
+[06-Oct-2021 14:04:12 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwtalukderent/lifecarepharmacy.xyz/application/views/components/ledger/client-ledger.php on line 381
+[06-Oct-2021 14:28:07 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwtalukderent/lifecarepharmacy.xyz/application/views/components/ledger/client-ledger.php on line 362
+[06-Oct-2021 14:43:16 asia/dhaka] PHP Fatal error:  Call to undefined function number_formst() in /home/wwwtalukderent/lifecarepharmacy.xyz/application/views/components/ledger/client-ledger.php on line 317
+[10-Oct-2021 09:38:53 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:39:49 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:39:51 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:39:51 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:39:51 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:39:51 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:39:51 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:39:51 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:39:51 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:39:52 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:40:16 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:40:27 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[10-Oct-2021 09:40:42 asia/dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/jomjahjl/lifecarepharmacybd.xyz/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/jomjahjl/lifecarepharmacybd.xyz/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(8): CI_Controller->__construct()
+#7 /home/jomjahjl/lifecarepharmacybd.xyz/application/core/Lab_Controller.php(37): Lab_Controller->__construct()
+#8 /home/jomjahjl/lifecarepharmacybd.xyz/application/con in /home/jomjahjl/lifecarepharmacybd.xyz/system/database/drivers/mysql/mysql_driver.php on line 91
+[27-May-2022 17:48:36 America/New_York] PHP Notice:  Undefined index: coki in /home/jomjahjl/lifecarepharmacybd.xyz/alfa-rex.php(21) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(19) : eval()'d code on line 1
+[27-May-2022 17:48:36 America/New_York] PHP Notice:  Undefined index: coki in /home/jomjahjl/lifecarepharmacybd.xyz/alfa-rex.php(21) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(19) : eval()'d code on line 1
+[27-May-2022 17:48:37 America/New_York] PHP Notice:  Undefined index: password in /home/jomjahjl/lifecarepharmacybd.xyz/alfa-rex.php(21) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(19) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(19) : eval()'d code(21) : eval()'d code(1) : eval()'d code on line 1
