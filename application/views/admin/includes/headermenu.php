@@ -27,7 +27,7 @@
             
             <ul class="nav-inner-right">
                 <li style="width: auto;">
-                    <a target="_blank" style="font-weight: bold; color: #00A8FF; border-right: none;" href="<?= site_url("sale/new_sale"); ?>"><i class="fa fa-shopping-cart"></i> New Sale</a>
+                    <a style="font-weight: bold; color: #00A8FF; border-right: none;" href="<?= site_url("sale/new_sale"); ?>"><i class="fa fa-shopping-cart"></i> New Sale</a>
                 </li>
                 <li style="width: auto;">
                     <a style="font-weight: bold;"><span style="color: #000;">Hello: </span> <span style="color: #00A8FF;"><?php echo $info[0]->name; ?></span></a>

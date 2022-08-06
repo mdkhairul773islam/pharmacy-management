@@ -116,7 +116,7 @@
                 <div class="panal-header-title">
                     <h1 class=" pull-left">Stock</a></h1>
                     <a class="btn btn-primery pull-right" style="font-size: 14px; margin-top: 0;" onclick="window.print()"><i class="fa fa-print"></i> Print</a>
-                    <a class="btn btn-primery pull-right" style="font-size: 14px; margin-top: 0;" href="<?=site_url('/stock/stock/pdf')?>" target="_blank"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download</a>
+                    <a class="btn btn-primery pull-right" style="font-size: 14px; margin-top: 0;" href="<?=site_url('/stock/stock/pdf')?>"><i class="fa fa-cloud-download" aria-hidden="true"></i> Download</a>
                     <button type="button" class="btn btn-primary pull-right" data-toggle="modal" data-target="#exampleModal">Short Report</button>
                 </div>
             </div>

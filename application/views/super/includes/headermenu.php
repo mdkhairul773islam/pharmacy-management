@@ -15,7 +15,7 @@
     .company_title {
         width: auto !important;
         padding-left: 15px;
-        display: none;
+        display:none;
     }
     .company_title h3 {
         text-transform: uppercase;
@@ -23,6 +23,9 @@
         color: #28A9E0;
         font-size: 19px;
     }
+    @media screen and (max-width: 991px) {
+        .company_title.sm_none {display:none !important;}
+	}
     @media screen and (max-width: 480px) {
         .top-title {display:none;}
 	}
@@ -40,18 +43,18 @@
                         <i class="fa fa-angle-right"></i>
                     </a>
                 </li>
-                <li class="company_title"><h3>Life Care Pharmacy</h3></li>
+                <li class="company_title sm_none"><h3>Life Care Pharmacy</h3></li>
             </ul>
             
             <ul class="nav-inner-right">
                 <li style="width: auto;">
-                    <a target="_blank" style="font-weight: bold; color: #00A8FF; border-right: none;" href="<?= site_url("sale/new_sale"); ?>"><i class="fa fa-shopping-cart"></i> New Sale</a>
+                    <a style="font-weight: bold; color: #00A8FF; border-right: none;" href="<?= site_url("sale/new_sale"); ?>"><i class="fa fa-shopping-cart"></i> New Sale</a>
                 </li>
                 <li style="width: auto;" class="top-title">
-                    <a style="font-weight: bold;"><span style="color: #000;">Hello: </span> <span style="color: #00A8FF;"><?php echo $this->data['name']; ?></span></a>
+                    <a style="font-weight: bold; border-right: none;"><span style="color: #000;">Hello: </span> <span style="color: #00A8FF;"><?php echo $this->data['name']; ?></span></a>
                 </li>
                 <li class="user-menu dropdown" style="width: 72px;">
-                    <a class="dropdown-toggle" type="button" data-toggle="dropdown" style="border-left: none;">
+                    <a class="dropdown-toggle" type="button" data-toggle="dropdown">
                         <img class="nav-pic" src="<?php echo site_url($image); ?>" />
                     </a>
                     <ul class="dropdown-menu dropdown-menu-right">

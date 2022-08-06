@@ -56,8 +56,9 @@ class Stock extends Admin_Controller
         } else {
             $pageNumber = $_POST['pageNumber'] * $pageSize;
         }
-
+        
         //base loop
+        $where["quantity >"] = 0;
         $getData = get_result('stock', $where, '', '', '', '', $pageSize, $pageNumber);
 
         $total_row = count($getData);
@@ -154,7 +155,7 @@ class Stock extends Admin_Controller
         $this->data['godown'] = $this->action->readGroupBy("godowns", "name", $where);
 
         if (isset($_POST['show'])) {
-            $where = array();
+            $where = array("trash"=>0);
 
             if (isset($_POST['search'])) {
                 foreach ($_POST['search'] as $key => $val) {
@@ -198,8 +199,10 @@ class Stock extends Admin_Controller
                 }
             }
         }
-        
-        $this->data['stocks'] = get_result('stock', $where);
+          
+        $where['trash'] = 0;
+        $where['quantity >'] = 0;
+        $this->data['stocks'] = get_result('stock', $where, '', '', 'name', 'ASC');
 
         $this->load->view($this->data['privilege'] . '/includes/header', $this->data);
         $this->load->view($this->data['privilege'] . '/includes/aside', $this->data);

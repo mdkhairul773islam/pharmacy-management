@@ -31,10 +31,6 @@
 
         <div class="form-group">
             <div class="col-md-3">
-                 <input  name="search[code]"  id="productList" style="width:100%;" placeholder="Select Product"  />
-            </div>
-
-            <div class="col-md-3">
                 <select name="search[category]" class="form-control select2" id="select2">
                     <option value="" selected >-- Category --</option>
                     <?php if(!empty($allCategory)){ foreach($allCategory as $key => $row){ ?>
@@ -85,7 +81,7 @@
         <td><?=(++$key)?></td>
         <td><?=($stock->name)?></td>
         <td><?=($stock->category)?></td>
-        <td><?=($stock->subcategory)?></td>
+        <td><?= filter($stock->subcategory)?></td>
         <td><?=($stock->quantity)?></td>
         <td><?=($stock->purchase_price)?></td>
         <td><?=($stock->sell_price)?></td>
@@ -104,8 +100,9 @@
     
 	$(document).ready(function() {
 		$('#example').DataTable( {
-			paging: false,
-			searching: false,
+		    pageLength: 50,
+			paging: true,
+			searching: true,
 			dom: 'Bfrtip',
 			buttons: [
 				'copy', 'csv', 'excel', 'pdf', 'print'

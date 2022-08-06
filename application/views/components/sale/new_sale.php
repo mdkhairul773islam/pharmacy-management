@@ -146,6 +146,9 @@
     @media screen and (min-width: 991px) {
         .desktop_padding {padding-left: 5% !important;}
     }
+    @media screen and (max-width: 991px) {
+        .table_style {height: auto !important;}
+    }
 </style>
 <div class="container-fluid" id="screen_area" ng-controller="NewSaleEntryCtrl">
     <div class="row">
